@@ -46,5 +46,3 @@ steps:
       #EncryptedPassword Location
       $obj | Export-Csv -Path "C:\CredentialEncryption\credentials.txt"
       #Connect and Check if able to login
-
-
